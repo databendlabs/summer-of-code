@@ -2,7 +2,7 @@
 
 This repo has been created for GSoC and OSPP and we look forward to welcoming you to Datafuse Labs' programming journey over the summer.
 
-- [Ideas Lists](./ideas-lists.md)
+- [Ideas Lists](./ideas-lists)
 - [FAQ](./faq.md)
 
 ## Get Started
